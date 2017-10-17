@@ -32,9 +32,9 @@ São apenas algumas sugestões, novas mudanças são bem vindas.
 
 ## Links úteis
 
-Gerenciar dependências com o CocoaPods - https://cocoapods.org
+Gerenciar dependências com o CocoaPods - [Site oficial do CocoaPods](https://cocoapods.org)
 
-Tutorial do uso do CocoaPods (em inglês) - https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started
+Tutorial do uso do CocoaPods (em inglês) - [Tutorial](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 
 ## Contato
 
