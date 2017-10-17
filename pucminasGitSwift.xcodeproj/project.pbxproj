@@ -8,6 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		03099DE249A9892AF2DD9C9A /* Pods_pucminasGitSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD18C81DD21CCB1039921AA7 /* Pods_pucminasGitSwift.framework */; };
+		031146C81F96510800EA61DD /* Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031146C71F96510800EA61DD /* Type.swift */; };
+		0375E7A41F93DA6400475124 /* StarWarsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7A31F93DA6400475124 /* StarWarsViewController.swift */; };
+		0375E7A71F93DE0A00475124 /* StarWarsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7A61F93DE0A00475124 /* StarWarsTableViewCell.swift */; };
+		0375E7AF1F93E2F700475124 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7AE1F93E2F700475124 /* Constants.swift */; };
+		0375E7B31F93E33500475124 /* StarWarsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7B21F93E33500475124 /* StarWarsService.swift */; };
+		0375E7B51F93E5CC00475124 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7B41F93E5CC00475124 /* People.swift */; };
+		0375E7B61F93E5E600475124 /* Mappable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0375E7A21F93DA4200475124 /* Mappable.swift */; };
+		03EE23491F952E7B00F23C5B /* PokemonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23481F952E7B00F23C5B /* PokemonViewController.swift */; };
+		03EE234C1F952E8E00F23C5B /* PokemonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE234B1F952E8E00F23C5B /* PokemonTableViewCell.swift */; };
+		03EE234E1F952FB700F23C5B /* PokemonService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE234D1F952FB700F23C5B /* PokemonService.swift */; };
+		03EE23501F95651900F23C5B /* PokemonResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE234F1F95651900F23C5B /* PokemonResource.swift */; };
+		03EE23521F95652000F23C5B /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23511F95652000F23C5B /* Pokemon.swift */; };
+		03EE23541F9569F500F23C5B /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23531F9569F500F23C5B /* Helper.swift */; };
+		03EE23561F956C1100F23C5B /* PokemonDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23551F956C1100F23C5B /* PokemonDetailsViewController.swift */; };
+		03EE23581F956C2800F23C5B /* GameOfThronesService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23571F956C2800F23C5B /* GameOfThronesService.swift */; };
+		03EE235A1F961E7F00F23C5B /* Sprites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE23591F961E7F00F23C5B /* Sprites.swift */; };
+		03EE235C1F9620BA00F23C5B /* PokemonDetailsCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EE235B1F9620BA00F23C5B /* PokemonDetailsCollectionViewCell.swift */; };
 		03FE32611F90F197009A5E51 /* Launchscreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03FE32601F90F197009A5E51 /* Launchscreen.storyboard */; };
 		03FE32631F90F296009A5E51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03FE32621F90F296009A5E51 /* Main.storyboard */; };
 		03FFD6031F90F00200D96B66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FFD6021F90F00200D96B66 /* AppDelegate.swift */; };
@@ -15,6 +32,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		031146C71F96510800EA61DD /* Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Type.swift; sourceTree = "<group>"; };
+		0375E7A21F93DA4200475124 /* Mappable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mappable.swift; sourceTree = "<group>"; };
+		0375E7A31F93DA6400475124 /* StarWarsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsViewController.swift; sourceTree = "<group>"; };
+		0375E7A61F93DE0A00475124 /* StarWarsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsTableViewCell.swift; sourceTree = "<group>"; };
+		0375E7AB1F93DFC700475124 /* pucminasGitSwift-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "pucminasGitSwift-Bridging-Header.h"; sourceTree = "<group>"; };
+		0375E7AE1F93E2F700475124 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		0375E7B21F93E33500475124 /* StarWarsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsService.swift; sourceTree = "<group>"; };
+		0375E7B41F93E5CC00475124 /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
+		03EE23481F952E7B00F23C5B /* PokemonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewController.swift; sourceTree = "<group>"; };
+		03EE234B1F952E8E00F23C5B /* PokemonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonTableViewCell.swift; sourceTree = "<group>"; };
+		03EE234D1F952FB700F23C5B /* PokemonService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonService.swift; sourceTree = "<group>"; };
+		03EE234F1F95651900F23C5B /* PokemonResource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonResource.swift; sourceTree = "<group>"; };
+		03EE23511F95652000F23C5B /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		03EE23531F9569F500F23C5B /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		03EE23551F956C1100F23C5B /* PokemonDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailsViewController.swift; sourceTree = "<group>"; };
+		03EE23571F956C2800F23C5B /* GameOfThronesService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfThronesService.swift; sourceTree = "<group>"; };
+		03EE23591F961E7F00F23C5B /* Sprites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sprites.swift; sourceTree = "<group>"; };
+		03EE235B1F9620BA00F23C5B /* PokemonDetailsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailsCollectionViewCell.swift; sourceTree = "<group>"; };
 		03FE32601F90F197009A5E51 /* Launchscreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Launchscreen.storyboard; sourceTree = "<group>"; };
 		03FE32621F90F296009A5E51 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		03FFD5FF1F90F00200D96B66 /* pucminasGitSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pucminasGitSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -38,6 +73,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0375E79C1F93D9DD00475124 /* Pokémon */ = {
+			isa = PBXGroup;
+			children = (
+				03EE234A1F952E7E00F23C5B /* Cells */,
+				03EE23481F952E7B00F23C5B /* PokemonViewController.swift */,
+				03EE23551F956C1100F23C5B /* PokemonDetailsViewController.swift */,
+			);
+			name = "Pokémon";
+			path = "Pokémon";
+			sourceTree = "<group>";
+		};
+		0375E79D1F93D9E100475124 /* Game of Thrones */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Game of Thrones";
+			sourceTree = "<group>";
+		};
+		0375E79E1F93D9E300475124 /* Star Wars */ = {
+			isa = PBXGroup;
+			children = (
+				0375E7A51F93DDF000475124 /* Cells */,
+				0375E7A31F93DA6400475124 /* StarWarsViewController.swift */,
+			);
+			path = "Star Wars";
+			sourceTree = "<group>";
+		};
+		0375E79F1F93DA0900475124 /* Star Wars */ = {
+			isa = PBXGroup;
+			children = (
+				0375E7B41F93E5CC00475124 /* People.swift */,
+			);
+			path = "Star Wars";
+			sourceTree = "<group>";
+		};
+		0375E7A01F93DA0E00475124 /* Pokémon */ = {
+			isa = PBXGroup;
+			children = (
+				03EE234F1F95651900F23C5B /* PokemonResource.swift */,
+				03EE23511F95652000F23C5B /* Pokemon.swift */,
+				03EE23591F961E7F00F23C5B /* Sprites.swift */,
+				031146C71F96510800EA61DD /* Type.swift */,
+			);
+			name = "Pokémon";
+			path = "Pokémon";
+			sourceTree = "<group>";
+		};
+		0375E7A11F93DA1000475124 /* Game of Thrones */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Game of Thrones";
+			sourceTree = "<group>";
+		};
+		0375E7A51F93DDF000475124 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				0375E7A61F93DE0A00475124 /* StarWarsTableViewCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		0375E7AC1F93E2B600475124 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				0375E7B21F93E33500475124 /* StarWarsService.swift */,
+				03EE234D1F952FB700F23C5B /* PokemonService.swift */,
+				03EE23571F956C2800F23C5B /* GameOfThronesService.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
 		03C31D1679641FE8F76FA32E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -46,9 +153,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		03EE234A1F952E7E00F23C5B /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				03EE234B1F952E8E00F23C5B /* PokemonTableViewCell.swift */,
+				03EE235B1F9620BA00F23C5B /* PokemonDetailsCollectionViewCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
 		03FE325C1F90F0B1009A5E51 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				0375E79E1F93D9E300475124 /* Star Wars */,
+				0375E79D1F93D9E100475124 /* Game of Thrones */,
+				0375E79C1F93D9DD00475124 /* Pokémon */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -56,6 +175,10 @@
 		03FE325D1F90F0B9009A5E51 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				0375E7A21F93DA4200475124 /* Mappable.swift */,
+				0375E79F1F93DA0900475124 /* Star Wars */,
+				0375E7A11F93DA1000475124 /* Game of Thrones */,
+				0375E7A01F93DA0E00475124 /* Pokémon */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -64,6 +187,9 @@
 			isa = PBXGroup;
 			children = (
 				03FFD6021F90F00200D96B66 /* AppDelegate.swift */,
+				0375E7AE1F93E2F700475124 /* Constants.swift */,
+				03EE23531F9569F500F23C5B /* Helper.swift */,
+				0375E7AB1F93DFC700475124 /* pucminasGitSwift-Bridging-Header.h */,
 				03FFD6091F90F00200D96B66 /* Assets.xcassets */,
 				03FFD60E1F90F00200D96B66 /* Info.plist */,
 			);
@@ -103,6 +229,7 @@
 				03FE325D1F90F0B9009A5E51 /* Models */,
 				03FE325F1F90F0C3009A5E51 /* Storyboards */,
 				03FE325C1F90F0B1009A5E51 /* View Controllers */,
+				0375E7AC1F93E2B600475124 /* Network */,
 				03FE325E1F90F0BD009A5E51 /* Support Files */,
 			);
 			path = pucminasGitSwift;
@@ -152,6 +279,7 @@
 				TargetAttributes = {
 					03FFD5FE1F90F00200D96B66 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -194,9 +322,32 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-pucminasGitSwift/Pods-pucminasGitSwift-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/Cache/Cache.framework",
+				"${BUILT_PRODUCTS_DIR}/Hue/Hue.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/Imaginary/Imaginary.framework",
+				"${BUILT_PRODUCTS_DIR}/Lightbox/Lightbox.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftHash/SwiftHash.framework",
+				"${BUILT_PRODUCTS_DIR}/UIScrollView-InfiniteScroll/UIScrollView_InfiniteScroll.framework",
+				"${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Cache.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Hue.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Imaginary.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lightbox.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftHash.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UIScrollView_InfiniteScroll.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libwebp.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -243,7 +394,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03EE234C1F952E8E00F23C5B /* PokemonTableViewCell.swift in Sources */,
 				03FFD6031F90F00200D96B66 /* AppDelegate.swift in Sources */,
+				03EE235A1F961E7F00F23C5B /* Sprites.swift in Sources */,
+				0375E7B61F93E5E600475124 /* Mappable.swift in Sources */,
+				0375E7A41F93DA6400475124 /* StarWarsViewController.swift in Sources */,
+				0375E7B31F93E33500475124 /* StarWarsService.swift in Sources */,
+				03EE23581F956C2800F23C5B /* GameOfThronesService.swift in Sources */,
+				03EE23521F95652000F23C5B /* Pokemon.swift in Sources */,
+				03EE234E1F952FB700F23C5B /* PokemonService.swift in Sources */,
+				0375E7A71F93DE0A00475124 /* StarWarsTableViewCell.swift in Sources */,
+				03EE235C1F9620BA00F23C5B /* PokemonDetailsCollectionViewCell.swift in Sources */,
+				03EE23501F95651900F23C5B /* PokemonResource.swift in Sources */,
+				0375E7B51F93E5CC00475124 /* People.swift in Sources */,
+				03EE23541F9569F500F23C5B /* Helper.swift in Sources */,
+				03EE23561F956C1100F23C5B /* PokemonDetailsViewController.swift in Sources */,
+				03EE23491F952E7B00F23C5B /* PokemonViewController.swift in Sources */,
+				0375E7AF1F93E2F700475124 /* Constants.swift in Sources */,
+				031146C81F96510800EA61DD /* Type.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,6 +530,7 @@
 			baseConfigurationReference = 6D0E531CAE3BFC8209B1B4ED /* Pods-pucminasGitSwift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U5QEBJ5PWK;
 				INFOPLIST_FILE = "$(SRCROOT)/pucminasGitSwift/Support Files/Info.plist";
@@ -369,6 +538,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = marcorcb.pucminasGitSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "pucminasGitSwift/Support Files/pucminasGitSwift-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -379,6 +550,7 @@
 			baseConfigurationReference = 62457E340DF078A98014B888 /* Pods-pucminasGitSwift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = U5QEBJ5PWK;
 				INFOPLIST_FILE = "$(SRCROOT)/pucminasGitSwift/Support Files/Info.plist";
@@ -386,6 +558,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = marcorcb.pucminasGitSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "pucminasGitSwift/Support Files/pucminasGitSwift-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
